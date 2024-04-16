@@ -1,0 +1,7 @@
+Projects in here are projects to upgrade SDKs Meta/Oculus  provides to the latest Unreal Engine or other dependency.
+
+MetaXR (Old name is OculusVR) SDK for Unreal Engine
+Official the latest release is integrated with the Unreal Engine 5.0.3, So GateVR need to do this to UE 5.1
+
+Unreal Engine 5 Integration - 46.0
+https://developer.oculus.com/downloads/package/unreal-engine-5-integration/
